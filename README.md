@@ -23,6 +23,9 @@ A présent vous n'êtes plus dans votre branche main (branche principale) mais v
 
 ![Screenshot Browse](Browse1.jpg)   
 
-Votre objectif à présent est de faire de ce point de sauvegarde une nouvelle branche pour que vous puissiez ensuite la fusionner avec votre branche principale. C'est à dire faire de cette branche de restauration votre branche main.
+Maintenant, il faut créer une nouvelle branche et valider la création de celle-ci. 
 
-**C'est vous de créer la suite de cette procedure de restauration**  
+Ensuite, vous devez fusionner la nouvelle branche avec celle déjà existante.
+Dans "Pull Requests", sélectionner la branche que vous venez de créer comme source, et la précédente comme destination.
+Puis, cliquer sur "Merge Pull Request", puis confirmer la fusion. 
+
