@@ -25,10 +25,8 @@ A présent vous n'êtes plus dans votre branche main (branche principale) mais v
 
 Maintenant, il faut créer une nouvelle branche et valider la création de celle-ci. 
 
-![Screenshot Historique](nouvelle_branche.png)
+![Screenshot Historique](nouvelle_branche1.png)
 
 Ensuite, vous devez fusionner la nouvelle branche avec celle déjà existante.
 Dans "Pull Requests", sélectionner la branche que vous venez de créer comme source, et la précédente comme destination.
 Puis, cliquer sur "Merge Pull Request", puis confirmer la fusion. 
-
-![Screenshot Historique](creation_pull_request.png)
